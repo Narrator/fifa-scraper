@@ -1,0 +1,16 @@
+{
+  "name": "fifa-scraper",
+  "version": "1.0.0",
+  "description": "Custom scraper to pull FIFA data",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kaushik Subramaniam Gnanaskandan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json2csv": "^3.7.2",
+    "osmosis": "^1.1.2"
+  }
+}
